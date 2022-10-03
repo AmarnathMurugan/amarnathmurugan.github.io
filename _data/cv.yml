@@ -2,96 +2,98 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Amarnath Murugan
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Master of Science in Computer Science
+      institution: University of Utah
+      year: 2022 - 2024
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: Bachelor of Technology in Computer Science & Engineering
+      institution: SRM Institute of Science & Technology, Kattankulathur
+      year: 2015 - 2019
+      description: 
+      - 89% Score 
+      - 50% Merit Scholarship
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Techical Director
+      institution: Manhole Collective
+      year: 03/2020 - 01/2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+       Oversaw the creation of the real-time animated short-film 'Manhole',which was funded by and created in Unreal Engine. The film was screened at the prestigious Annecy film festival and 4 other fests
+   
+    - title: Research Assistant
+      institution: IMXD Lab, Indian Institute of Technology, Bombay
+      year: 02/2019 - 01/2022
+      description: Conducted research on narratives and novel interaction techniques for VR & AR. Produced 8 publications in international conferences
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Virtual Intern
+      institution: Empathic Computing Lab, University of South Australia
+      year: 05/2021 - 08/2021
+      description: Worked on compute shaders in Unity for editing volumetric videos
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Research Intern
+      institution: IMXD Lab, Indian Institute of Technology, Bombay
+      year: 06/2018 - 07/2018
+      description: Conducted research on passively interactive live-action VR films
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Intern
+      institution: Merkel Haptic Systems
+      year: 06/2017 - 07/2017
+      description: Implemented medical training and visualization demos in AR & VR
 
-- title: Open Source Projects
+    - title: Intern
+      institution: XR Labs, Chennai
+      year: 12/2016 - 01/2017
+      description: Created remote monitoring and product viz demos for Hololens
+
+- title: Awards
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Manhole | 3rd, Unreal Shorts Challenge
+      institution: Competed against renowned studios & filmmakers and won $15,000
+      year: 12/2021
+      
+    - title: Winner | Music Hack Day, Mumbai
+      institution: Won best music hack for building a multi-user VR tool for music collaboration
+      year: 12/2019
+    
+    - title: Winner | Smart India Hackathon '17
+      institution: Won the World's largest Hackathon at the time for an AR/VR museum app
+      year: 04/2017
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

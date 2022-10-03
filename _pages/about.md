@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Graphics Programmer | Game Developer | Researcher
+subtitle: Researcher | Graphics Programmer | Game Developer
 
 profile:
   align: right
