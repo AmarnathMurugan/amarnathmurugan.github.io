@@ -16,7 +16,7 @@ category: work
 A compilation of the projects I worked on while learning graphics by myself.<br><br>    
 ### Raytracing on Multiple Weekends
 
-Following the [Raytracing in one weekend](https://raytracing.github.io/) ebook series, I implemented a Raytracer from scratch in C++. The project was a helpful refresher for the maths used in graphics and contextualized the concepts. The first book focused on implementing vector math functions, rays, ray-sphere interactions, shading, aliasing, positionable camera, and lens blur. The following images show scenes that implement these features.
+I implemented a Raytracer from scratch in C++, following the [Raytracing in one weekend](https://raytracing.github.io/) ebook series. The project was a helpful refresher for the maths used in graphics and contextualized the concepts. The first book focused on implementing vector math functions, rays, ray-sphere interactions, shading, aliasing, positionable camera, and lens blur. The following images show scenes that implement these features.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
