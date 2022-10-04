@@ -58,7 +58,7 @@ After the raytracing projects, I have implemented a couple of shaders in Shadert
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/tt2cDm?gui=true&t=10&paused=true&muted=false" allowfullscreen ></iframe>
 </p>
 
-After watching Pixar's soul and reading the [paper](https://graphics.pixar.com/library/SoulVolumetricChars/paper.pdf) on their pipeline for rendering volumetric characters, I used SDF's & volumetric raymarching to create a shader that renders an animated 22 from the movie. Press play and use the same controls as that of the fractals. Additionally, clicking and dragging would control the eyes.
+After watching Pixar's Soul and reading the [paper](https://graphics.pixar.com/library/SoulVolumetricChars/paper.pdf) on their pipeline for rendering volumetric characters, I used SDF's & volumetric raymarching to create a shader that renders an animated 22 from the movie. Press play and use the same controls as that of the fractals. Additionally, clicking and dragging would control the eyes.
 
 <p style="text-align:center">
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/NsjGRt?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
@@ -68,9 +68,9 @@ After watching Pixar's soul and reading the [paper](https://graphics.pixar.com/l
 
 ### Rasterization
  
-I followed along with Prof Cem Yuksel's Interactive Computer Graphics course and implemented a basic rasterizer in C++ & OpenGL. I worked on this project before applying to the University of Utah, and will be working on this further when I officially enroll in the course.
+I followed along with Prof Cem Yuksel's Interactive Computer Graphics course online and implemented a basic rasterizer in C++ & OpenGL. I created this project before applying to the University of Utah, and will be working on this further when I officially enroll in the course.
 
-Currently, the rasterizer supports loading and parsing .Obj files, blinn shading, lights, and object transforms.
+Currently, the rasterizer supports loading and parsing .Obj files, blinn shading, textures, lights, and object transforms.
 
 <div class="row">    
     <div class="col-sm mt-3 mt-md-0">
