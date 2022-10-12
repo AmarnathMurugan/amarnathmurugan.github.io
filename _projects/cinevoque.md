@@ -3,7 +3,7 @@ layout: page
 title: Cinévoqué
 description: Passively responsive live-action VR films
 img: assets/img/projects/cine/cinevoque_thumbnail.jpg
-importance: 2
+importance: 3
 category: work
 ---
 
