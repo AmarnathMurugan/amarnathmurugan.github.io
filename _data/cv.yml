@@ -7,11 +7,11 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master of Science in Computer Science
+    - title: Master of Science in Computing, Graphics & Visualization Specialization
       institution: University of Utah
       year: 2022 - 2024
-      # description:
-      #   - Description 1.
+      description:
+        - 4.0/4.0 GPA
       #   - Description 2.
       #   - title: Description 3.
       #     contents:
@@ -27,7 +27,13 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Technical Director
+    - title: Graduate Research Assistant
+      institution: School of Computing, University of Utah
+      year: Since 01/2023
+      description:
+       Researching on tensor operation acceleration through distributed computing and parallel execution on the GPU
+  
+    - title: Techical Director
       institution: Manhole Collective
       year: 03/2020 - 01/2022
       description:
