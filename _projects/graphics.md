@@ -68,16 +68,16 @@ After watching Pixar's Soul and reading the [paper](https://graphics.pixar.com/l
 
 ### Rasterization
  
-I followed along with Prof Cem Yuksel's Interactive Computer Graphics course online and implemented a basic rasterizer in C++ & OpenGL. I created this project before applying to the University of Utah, and will be working on this further when I officially enroll in the course.
+I followed along with Prof Cem Yuksel's Interactive Computer Graphics course online and implemented a basic rasterizer in C++ & OpenGL. I created this project before applying to the University of Utah. I have officially enrolled in the course this semester and will further build on these.
 
 Currently, the rasterizer supports loading and parsing .Obj files, blinn shading, textures, lights, and object transforms.
 
 <div class="row">    
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="https://raw.githubusercontent.com/AmarnathMurugan/InteractiveGraphicsProjects/main/Pictures/prj3.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/graph/prj3.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="https://raw.githubusercontent.com/AmarnathMurugan/InteractiveGraphicsProjects/main/Pictures/prj4.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/graph/prj4.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 
 </div>
