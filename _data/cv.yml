@@ -31,7 +31,9 @@
       institution: School of Computing, University of Utah
       year: Since 01/2023
       description:
-       Researching on tensor operation acceleration through distributed computing and parallel execution on the GPU
+       - Working on a 3D modelling tool advised by Dr Cem Yuksel
+       - Worked on a GPU port of a Finite-Volume simulation under Dr Ponnuswamy Sadayappan. Reduced the runtime of a 8 second CPU subroutine to 600 μs using CUDA 
+
   
     - title: Techical Director
       institution: Manhole Collective
@@ -43,11 +45,6 @@
       institution: IMXD Lab, Indian Institute of Technology, Bombay
       year: 02/2019 - 01/2022
       description: Conducted research on narratives and novel interaction techniques for VR & AR. Produced 8 publications in international conferences
-
-    - title: Virtual Intern
-      institution: Empathic Computing Lab, University of South Australia
-      year: 05/2021 - 08/2021
-      description: Worked on compute shaders in Unity for editing volumetric videos
 
     - title: Research Intern
       institution: IMXD Lab, Indian Institute of Technology, Bombay
