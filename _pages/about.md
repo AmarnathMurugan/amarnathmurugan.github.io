@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Researcher | Graphics Programmer | Game Developer
+subtitle: Graphics Programmer | Game Developer | Researcher
 
 profile:
   align: right
@@ -13,6 +13,7 @@ profile:
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+announcement: true
 ---
 
 Hi there! I'm a second-year MS Computing student specializing in Graphics & Visualization at the University of Utah. My research interest is in real-time rendering and animation of digital humans. I'm currently working as a Graduate Research Assistant under [Prof Cem Yuksel](http://www.cemyuksel.com/) at the [Utah Graphics Lab](https://graphics.cs.utah.edu/), and our work is focused on 3D modelling tools.

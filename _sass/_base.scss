@@ -244,6 +244,19 @@ blockquote {
   }
 }
 
+// Banner
+$highlight-background-color: #ffe96a; // Customize the highlight background color
+$highlight-text-color: #000000; // Customize the highlight text color
+
+.highlight-text {
+  margin-top: 4rem;
+  background-color: $highlight-background-color;
+  padding: 0.2em 0.5em;
+  border-radius: 4px;
+  font-weight: bold;
+  color: $highlight-text-color;
+}
+
 // Social (bottom)
 
 .social {

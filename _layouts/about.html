@@ -39,13 +39,17 @@ layout: default
           <div class="clearfix">
             {{ content }}
           </div>
+          
+          {% if page.announcement -%}
+          <p><span class="highlight-text">I am actively looking for job opportunities in graphics programming starting summer 2024</span></p>
+          {%- endif %}
 
           {% if page.news -%}
           <!-- News -->
           {%- include news.html %}
           {%- endif %}
           {% if page.selected_papers -%}
-            <!-- Selected papers -->
+            <!-- Selected papers -->            
             {%- include selected_papers.html %}
           {%- endif %}
           {%- if page.social %}
