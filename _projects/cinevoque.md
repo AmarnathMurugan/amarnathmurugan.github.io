@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cinévoqué
+dates: Jun 2018 - Dec 2019
 description: Passively responsive live-action VR films
 img: assets/img/projects/cine/cinevoque_thumbnail.jpg
 importance: 3

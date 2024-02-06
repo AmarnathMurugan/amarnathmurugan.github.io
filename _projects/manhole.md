@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Manhole
+dates: Mar 2020 - Dec 2021
 description: Award-winning real-time animated short film
 img: /assets/img/projects/manhole/thumbnail.jpg #3:2
 importance: 1

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Graphics
+dates: Mar 2020 - Jul 2021
 description: Raytracing, Raymarching, Rasterization & NaNs
 img: /assets/img/projects/graph/icon.png
 importance: 2

@@ -71,7 +71,7 @@ blockquote {
 
   .card-title {
     color: var(--global-text-color);
-  }
+  }  
 
   .card-item {
     width: auto;
@@ -441,6 +441,17 @@ footer.sticky-bottom {
     img {
       width: 100%;
     }
+    text-align: center;
+  }
+
+  .card-date{
+    color: var(--global-text-color);
+    background-color: var(--global-bg-color-alpha);
+    border-radius: 5px;
+    padding: 0.25rem 0.5rem;
+    opacity: 0.7;
+    align-items: center;
+    text-align: center;
   }
 
   .card-item {
