@@ -49,7 +49,7 @@ The second book covered motion blur, Bounding Volume Hierarchy, procedural textu
 </div>
 <br>  
 
-### Raymarching to my own beat
+### Raymarching SDFs
 
 After the raytracing projects, I have implemented a couple of shaders in Shadertoy. The first was an interactive mandelbrot set, which served as a refresher for complex math and its uses in graphics. The second shader is an interactive mandelbulb, which helped me understand raymarching and SDFs. Click the play button on the shaders below, and use arrow keys to move around. Z/X for zooming in/out.
 
@@ -59,7 +59,7 @@ After the raytracing projects, I have implemented a couple of shaders in Shadert
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/tt2cDm?gui=true&t=10&paused=true&muted=false" allowfullscreen ></iframe>
 </p>
 
-After watching Pixar's Soul and reading the [paper](https://graphics.pixar.com/library/SoulVolumetricChars/paper.pdf) on their pipeline for rendering volumetric characters, I used SDF's & volumetric raymarching to create a shader that renders an animated 22 from the movie. Press play and use the same controls as that of the fractals. Additionally, clicking and dragging would control the eyes.
+After watching Pixar's Soul and reading the [paper](https://graphics.pixar.com/library/SoulVolumetricChars/paper.pdf) on their pipeline for rendering volumetric characters, I used SDFs & volumetric raymarching to create a shader that renders an animated 22 from the movie. Press play and use the same controls as that of the fractals. Additionally, clicking and dragging would control the eyes.
 
 <p style="text-align:center">
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/NsjGRt?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
