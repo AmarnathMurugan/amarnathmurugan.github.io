@@ -25,7 +25,7 @@ jobs:
     - name: Remove vendor, Gemfile.lock, and Bundler cache # More aggressive cleanup
       run: |
         rm -rf vendor/bundle Gemfile.lock
-        bundle cache clean --force
+        bundle cache clean
 
     - name: Install Dependencies
       run: bundle install
