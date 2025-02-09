@@ -21,9 +21,12 @@
         with:
           ruby-version: '3.0.2'
           bundler-cache: true
+          bundler: '2.5.6' # Try specifying an older Bundler version
 
-      - name: Remove vendor and Gemfile.lock 
-        run: rm -rf vendor/bundle Gemfile.lock
+      - name: Remove vendor and Gemfile.lock and Bundler cache
+      run: |
+        rm -rf vendor/bundle Gemfile.lock
+        bundle cache clean --force
 
       - name: Install Dependencies
         run: bundle install
