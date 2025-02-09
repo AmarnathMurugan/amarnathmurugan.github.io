@@ -20,12 +20,11 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.0.2'
-        bundler-cache: true
+        bundler-cache: false
         bundler: '2.2.14'
     - name: Remove vendor, Gemfile.lock, and Bundler cache # More aggressive cleanup
       run: |
         rm -rf vendor/bundle Gemfile.lock
-        bundle cache clean
 
     - name: Install Dependencies
       run: bundle install
